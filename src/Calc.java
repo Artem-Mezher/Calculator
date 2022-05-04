@@ -8,6 +8,8 @@ public class Calc {
         char operation;
         char calculatorOperation;
         int result;
+        int result1;
+        int result2;
 
         do {
             if (calculatorOperation)
